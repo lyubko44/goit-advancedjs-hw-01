@@ -30,3 +30,12 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+
+.welcome-sign {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  min-width: 100vw;
+  min-height: 100vh;
+  margin-top: 20vh;
+}
